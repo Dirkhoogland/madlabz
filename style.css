@@ -1,0 +1,47 @@
+body{
+	background-color: #484848;
+}
+
+#allcontainer{
+	margin: auto;
+	width: 700px;
+}
+
+#container{
+	display: inline;
+	width: 700px;
+}
+
+#header{
+	background-color: red;
+	width: 700px;
+	height: 35px;
+}
+
+#formcontainer{
+	background-color: white;
+}
+
+#madlips{
+	font-size: 50px;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+input{
+	margin-left: 60%;
+	width: 200px;
+}
+
+label{
+	margin-left: 20px;
+
+}
+
+h2{
+	margin-top: 0px;
+	margin-left: 20px;
+}
